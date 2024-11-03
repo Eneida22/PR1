@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOC20241" Database="" Version="10000">
+  <Project Name="UOC20241" Path="UOC20241.project" Active="Yes"/>
+  <Project Name="UOCTaxation" Path="UOCTaxation/UOCTaxation.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="UOC20241" ConfigName="Debug"/>
+      <Project Name="UOCTaxation" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="UOC20241" ConfigName="Release"/>
+      <Project Name="UOCTaxation" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

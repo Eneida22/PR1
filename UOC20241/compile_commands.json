@@ -1,0 +1,85 @@
+[{
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/date.h",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation",
+  "command": "/usr/bin/g++ -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/date.h -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/date.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include  -gdwarf-2"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/tenant.h",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation",
+  "command": "/usr/bin/g++ -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/tenant.h -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/tenant.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include  -gdwarf-2"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/landlord.h",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation",
+  "command": "/usr/bin/g++ -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/landlord.h -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/landlord.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include  -gdwarf-2"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/rental_incomes.h",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation",
+  "command": "/usr/bin/g++ -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/rental_incomes.h -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/rental_incomes.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include  -gdwarf-2"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/date.c",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation",
+  "command": "/usr/bin/gcc -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/date.c -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/date.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include  -gdwarf-2"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/error.h",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation",
+  "command": "/usr/bin/g++ -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/error.h -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/error.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include  -gdwarf-2"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/api.h",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation",
+  "command": "/usr/bin/g++ -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/api.h -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/api.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include  -gdwarf-2"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/api.c",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation",
+  "command": "/usr/bin/gcc -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/api.c -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/api.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include  -gdwarf-2"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/csv.c",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation",
+  "command": "/usr/bin/gcc -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/csv.c -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/csv.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include  -gdwarf-2"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/landlord.c",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation",
+  "command": "/usr/bin/gcc -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/landlord.c -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/landlord.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include  -gdwarf-2"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/csv.h",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation",
+  "command": "/usr/bin/g++ -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/csv.h -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/include/csv.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include  -gdwarf-2"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/tenant.c",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation",
+  "command": "/usr/bin/gcc -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/tenant.c -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/tenant.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include  -gdwarf-2"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/rental_incomes.c",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation",
+  "command": "/usr/bin/gcc -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/rental_incomes.c -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/UOCTaxation/src/rental_incomes.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include  -gdwarf-2"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/include/test_data.h",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241",
+  "command": "/usr/bin/g++ -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/include/test_data.h -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/include/test_data.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./test/include -I./UOCTaxation/include  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/include/test_pr1.h",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241",
+  "command": "/usr/bin/g++ -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/include/test_pr1.h -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/include/test_pr1.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./test/include -I./UOCTaxation/include  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/include/test_suite.h",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241",
+  "command": "/usr/bin/g++ -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/include/test_suite.h -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/include/test_suite.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./test/include -I./UOCTaxation/include  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/src/test.c",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241",
+  "command": "/usr/bin/gcc -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/src/test.c -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/src/test.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./test/include -I./UOCTaxation/include  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/src/test_pr1.c",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241",
+  "command": "/usr/bin/gcc -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/src/test_pr1.c -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/src/test_pr1.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./test/include -I./UOCTaxation/include  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/include/test.h",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241",
+  "command": "/usr/bin/g++ -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/include/test.h -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/include/test.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./test/include -I./UOCTaxation/include  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/src/test_suite.c",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241",
+  "command": "/usr/bin/gcc -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/src/test_suite.c -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/test/src/test_suite.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./test/include -I./UOCTaxation/include  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241/src/main.c",
+  "directory": "/home/uoc/Documents/codelite/workspaces/PR1/UOC20241",
+  "command": "/usr/bin/gcc -c /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/src/main.c -o /home/uoc/Documents/codelite/workspaces/PR1/UOC20241/src/main.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./test/include -I./UOCTaxation/include  -gdwarf-2  -O0  -Wall"
+ }]
